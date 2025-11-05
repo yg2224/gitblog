@@ -1,4 +1,4 @@
-base_url = "https://yg2224.github.io/gitblog/"
+base_url = "https://yg2224.github.io/gitblog"
 generate_feeds = true
 feed_filenames = ["rss.xml"]
 theme = "even"
@@ -12,5 +12,5 @@ even_menu = [
     {url = "$BASE_URL", name = "Home"},
     {url = "$BASE_URL/tags/top/", name = "Top"},
     {url = "$BASE_URL/issue-2/", name = "About"},
-    {url = "$BASE_URL/issue-311/", name = "Things I like"},
+    {url = "$BASE_URL/issue-2/", name = "Things I like"},
 ]
