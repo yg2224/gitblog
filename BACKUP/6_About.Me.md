@@ -11,5 +11,5 @@ I believe that **the only way to do great is to love what you do**. Thanks for v
 Email: [19223878273@163.com](mailto:19223878273@163.com)  
 GitHub: [yg2224](https://github.com/yg2224)
 
-**Friends' Sites:  **
-- [jeffry]([https://publish.obsidian.md/jeffry](https://publish.obsidian.md/jeffry))
+### Friends' Sites:  
+- [jeffry](https://publish.obsidian.md/jeffry)
